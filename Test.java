@@ -7,7 +7,7 @@ public class Test {
 
         Solution s = new Solution();
 
-        System.out.println("Getting words from url \"https://raw.githubusercontent.com/lad/words/master/words\"");
+        System.out.println("Getting words from url \"https://raw.githubusercontent.com/lad/words/master/words\"... Please wait");
         List<String> dict = s.getUrlContents("https://raw.githubusercontent.com/lad/words/master/words");
 
         char[] chars1 = {};

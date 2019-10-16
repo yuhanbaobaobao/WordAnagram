@@ -12,7 +12,7 @@ WordAnagram function:
           if frequency of each character in word == frequency of each character in char set, add current word to result;
 
 test:
-  test empty char set
-  test normal char set
-  test same char set with captial case
-  test char set that no match words
+  1. test empty char set
+  2. test normal char set
+  3. test same char set with captial case
+  4. test char set that no match words
